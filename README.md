@@ -1,5 +1,5 @@
 # 💫About Me :
-I am currently designing a chess algorithm that uses time as the main variable and thus can play with time as the deciding factor. The time would be previously agreed with the player and thus, depending on the time chosen, the algorithm would better weight the movements and better calculate when to spend more time on the decisive plays.
+I am Co-Founder of [Analytica]
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/augustoperin) 
