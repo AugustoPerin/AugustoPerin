@@ -1,5 +1,5 @@
 # 💫About Me :
-I am Co-Founder of [Analytica]
+Experienced professional with 3 years of experience as a Solutions Architect, mastering the art of extracting strategic value from data. Expert in Amazon Web Services (AWS) and Python. Aiming to become MLOps Engineer.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/augustoperin) 
