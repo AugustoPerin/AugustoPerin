@@ -1,5 +1,5 @@
 ## 💫 About Me
-[cite_start]AI Engineer and Data Scientist with over 5 years of experience[cite: 24]. [cite_start]My focus is on designing and deploying end-to-end Artificial Intelligence solutions, bridging the gap between advanced academic research and highly complex corporate environments[cite: 26]. [cite_start]I specialize in the entire data and model lifecycle, from data engineering to the productive deployment of traditional Machine Learning and Generative AI (GenAI)[cite: 27]. 
+AI Engineer and Data Scientist with over 5 years of experience. My focus is on designing and deploying end-to-end Artificial Intelligence solutions, bridging the gap between advanced academic research and highly complex corporate environments. I specialize in the entire data and model lifecycle, from data engineering to the productive deployment of traditional Machine Learning and Generative AI (GenAI). 
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/augustoperin) 
@@ -12,19 +12,19 @@
 ## 🧰 Skills & Expertise
 
 ### 🧠 Generative AI & Machine Learning
-* [cite_start]**GenAI & LLMs**: Prompt engineering, RAG (Retrieval-Augmented Generation) pipelines with vector databases, and Multi-Agent Systems architectures[cite: 29].
-* [cite_start]**Machine Learning**: Predictive modeling, deep learning, and complex data analysis[cite: 31].
-* [cite_start]**Frameworks & Libraries**: TensorFlow, Scikit-Learn[cite: 31].
+* **GenAI & LLMs**: Prompt engineering, RAG (Retrieval-Augmented Generation) pipelines with vector databases, and Multi-Agent Systems architectures.
+* **Machine Learning**: Predictive modeling, deep learning, and complex data analysis.
+* **Frameworks & Libraries**: TensorFlow, Scikit-Learn.
 
 ### ⚙️ MLOps & Architecture
-* [cite_start]**LLMOps & MLOps**: Model deployment, CI/CD pipelines, Docker, and Kubernetes[cite: 6, 7, 34].
-* [cite_start]**API Integration**: Integration of ML solutions via FastAPI and Flask to corporate systems and virtual assistants[cite: 30].
-* [cite_start]**Cloud Architecture**: Strong expertise across AWS, GCP, and Azure[cite: 22]. [cite_start]Experience with serverless architectures and event-driven computing[cite: 46].
+* **LLMOps & MLOps**: Model deployment, CI/CD pipelines, Docker, and Kubernetes.
+* **API Integration**: Integration of ML solutions via FastAPI and Flask to corporate systems and virtual assistants.
+* **Cloud Architecture**: Strong expertise across AWS, GCP, and Azure. Experience with serverless architectures and event-driven computing.
 
 ### 📊 Data Engineering
-* [cite_start]**Data Processing**: Orchestration of optimized data pipelines for training and inference using Databricks, Apache Spark, and AWS Glue[cite: 34, 58].
-* [cite_start]**Data Lakehouse**: Management and optimization of Data Lakes, implementing governance and security[cite: 47].
-* [cite_start]**Databases**: PostgreSQL[cite: 63].
+* **Data Processing**: Orchestration of optimized data pipelines for training and inference using Databricks, Apache Spark, and AWS Glue.
+* **Data Lakehouse**: Management and optimization of Data Lakes, implementing governance and security.
+* **Databases**: PostgreSQL.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AugustoPerin&icon=0&color=0)](https://visitcount.itsvg.in)
